@@ -24,7 +24,7 @@
     color: white;
     top: 4%;
     position: absolute;
-    left: 3%;
+    left: 10%;
 }
 .delicious{
 color: white;
@@ -37,3 +37,15 @@ color:white;
     margin-left: 38%;
     position: absolute;
 }
+.table{
+    color: white;
+    background-color:orangered;
+    border-radius:60px 60px 60px 60px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 6%;
+    padding-right: 4%;
+    border: 1px solid orangered;
+    width: 35%;
+}
+
