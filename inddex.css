@@ -214,15 +214,21 @@ margin-left: 15%;
     margin-left: 30%;
 }
 .listen{
-    background-image: url(images/maxresdefault.jpg);
-    filter: brightness(50%);
+    background-image: url(images/23-Food-Photographer-Bangkok-Thailand.jpg);
+    filter: brightness(85%);
     width: 100%;
+    padding-bottom: 5%;
 }
 .listener{
     margin-left: 45%;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 3%;
 }
 .customer{
     margin-left: 36%;
+    color: white;
+    padding-bottom: 4%;
 }
 .group-three{
     display: flex;
@@ -232,5 +238,24 @@ margin-left: 15%;
 .col15,.col16,.col17{
     background-color: white;
     text-align: center;
-      
+    padding: 40px;  
+}
+.space{
+    margin-left: 45%;
+    color:black;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+.early{
+    margin-left: 36%;
+    color: black;
+    padding-bottom: 4%;
+}
+.name{
+    margin-left: 20%;
+    background-color: #E5E5E5;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 55%;
+    
 }
