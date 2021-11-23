@@ -98,12 +98,139 @@ margin-left: 7%;
     flex-direction: row;
     justify-content: space-around;
     padding-bottom: 4%;
+    padding-top: 3%;
 }
 .col1, .col2, .col3, .col4,.col5,.col6,.col7,.col8{
     background-color: white;
+    text-align: center;
 }
 .spice{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;  
+    justify-content: space-around;
+    padding-bottom: 4%;  
+}
+.explorer{
+    color: white;
+    background-color:orangered;
+    border-radius:60px 60px 60px 60px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 1px solid orangered;
+    margin-left: 44%;  
+    margin-bottom: 4%;
+}
+.cash{
+    color: white;
+    background-color:orangered;
+    width:16%;
+    border: 1px solid orangered;
+    margin-left: 75%;
+}
+.spicey{
+    top:316%;
+    margin-right: 20%;
+    position: absolute;
+    
+}
+.SPICED{
+    top:316%;
+    margin-right: 20%;
+    position: absolute;
+      
+}
+.SWEET{
+    top:316%;
+    margin-right: 20%;
+    position: absolute;
+       
+}
+.NICE{
+    top:316%;
+    margin-right: 12%;
+    position: absolute;
+    
+}
+.GOOD{
+    top:264%;
+    margin-right: 12%;
+    position: absolute;
+    
+}
+.TASTY{
+    top:264%;
+    margin-right: 20%;
+    position: absolute;
+    
+}
+.LICK{
+    top:264%;
+    margin-right: 20%;
+    position: absolute;
+    
+}
+.HOT{
+    top:264%;
+    margin-right: 20%;
+    position: absolute;
+    
+}
+.oda{
+    color: orangered;
+    background-color:papayawhip;
+    width:46%;
+    border: 1px solid papayawhip;
+    margin-left: 1%; 
+    border-radius:60px 60px 60px 60px; 
+}
+.us{
+    margin-left: 45%;
+}
+.why{
+    margin-left: 36%;
+}
+.group-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.group-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.pay{
+margin-left: 15%;
+}
+.eat{
+    margin-left: 15%;
+}
+.huan{
+    margin-left: 15%;
+}
+.services{
+    margin-left: 30%;
+}
+.listen{
+    background-image: url(images/maxresdefault.jpg);
+    filter: brightness(50%);
+    width: 100%;
+}
+.listener{
+    margin-left: 45%;
+}
+.customer{
+    margin-left: 36%;
+}
+.group-three{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;   
+}
+.col15,.col16,.col17{
+    background-color: white;
+    text-align: center;
+      
 }
