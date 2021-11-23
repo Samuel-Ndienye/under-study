@@ -325,4 +325,25 @@ margin-left: 15%;
     width:10%;
     margin-left: 40%;
 }
-.
+.serve{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 400px;
+    filter: brightness(75%);
+    background-image: url(images/close-up-view-tasty-burger-wood-table-black-background-low-light-photography-fast-food-178754537.jpg);
+}
+.faif{
+    padding-top: 10%;
+}
+.tein{
+    padding-top:10%;
+}
+.twelf{
+    padding-top: 10%;
+}
+.fow{
+    padding-top: 10%;
+}
+    
