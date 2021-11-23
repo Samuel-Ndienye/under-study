@@ -257,5 +257,72 @@ margin-left: 15%;
     padding-top: 1%;
     padding-bottom: 1%;
     width: 55%;
+    color: gray; 
     
 }
+.email{
+    margin-left: 20%;
+    background-color: #E5E5E5;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 55%; 
+    color: gray;  
+}
+.phone{
+    margin-left: 20%;
+    background-color: #E5E5E5;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 25%;
+    color: gray; 
+}
+.date{
+    margin-left: 20%;
+    background-color: #E5E5E5;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 25%;
+    color: gray; 
+}
+.person{
+    margin-left: 47%;
+    background-color: #E5E5E5;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 27%;
+    position: absolute;
+    top: 655%;
+    color: gray; 
+
+}
+.time{
+    margin-left: 47%;
+    background-color: #E5E5E5;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 27%;
+    top: 664%;
+    position: absolute;
+    color: gray; 
+}
+.message{
+    margin-left: 20%;
+    background-color: #E5E5E5;
+    padding-top: 1%;
+    padding-bottom: 8%;
+    width: 55%;
+    color: gray; 
+}
+.tables{
+    color: white;
+    background-color:orangered;
+    border-radius:60px 60px 60px 60px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right:2%;
+    border: 1px solid orangered;
+    width:10%;
+    margin-left: 40%;
+}
+.
