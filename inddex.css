@@ -1,6 +1,6 @@
 .section{
     background-image:url(images/23-Food-Photographer-Bangkok-Thailand.jpg);
-    height: 1000px;
+    height: 900px;
     width: 100%;
     filter: brightness(63%);
 }
@@ -22,12 +22,22 @@
 }
 .logo{
     color: white;
-    top: 4%;
+    
     position: absolute;
     left: 10%;
 }
+.logo{
+    font-family: 'Oleo Script Swash Caps';
+    font-size: 42px;
+
+}
 .delicious{
 color: white;
+font-family: 'Oleo Script Swash Caps';
+font-size: 47px;
+position: absolute;
+bottom: 90%;
+margin-top: 30%;
 }
 .lorem{
 color:white;
@@ -47,6 +57,7 @@ color:white;
     padding-right: 4%;
     border: 1px solid orangered;
     width: 35%;
+    margin-top: 20%;
 }
 .nne{
     position: absolute;
@@ -65,12 +76,19 @@ margin-left: 7%;
 }
 .amc{
     margin-left:58%;
-    top:170%;
+    top:140%;
     position: absolute;
 }
 .about{
     width: 100%;
     margin-bottom: 5%;
+}
+.aboutus{
+    font-family: 'Oleo Script Swash Caps';
+    font-size:40px;
+    margin-bottom: 18%;
+    border-bottom: 2px solid orangered;
+    width: 40%;
 }
 .explore{
     color: white;
@@ -83,11 +101,19 @@ margin-left: 7%;
     border: 1px solid orangered;
     width: 35%; 
 }
+.cooks{color: grey;
+margin-top: 6%;
+margin-bottom: 7%;
+}
+.most{color: gray;
+margin-bottom: 7%;
+}
 .menu{
     background-color: #E5E5E5;
 }
 .ourmenu{
     margin-left: 45%;
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .our{
     margin-left: 36%;
@@ -133,48 +159,50 @@ margin-left: 7%;
     top:356%;
     margin-right: 20%;
     position: absolute;
-    
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .SPICED{
     top:356%;
     margin-right: 20%;
     position: absolute;
-      
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;   
 }
 .SWEET{
     top:356%;
     margin-right: 20%;
     position: absolute;
-       
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;  
 }
 .NICE{
     top:356%;
     margin-right: 10%;
     position: absolute;
-    
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .GOOD{
     top:291%;
     margin-right: 9%;
     position: absolute;
-    
+    font-family: 'Oleo Script Swash Caps';font-size: 22px; 
 }
 .TASTY{
     top:291%;
     margin-right: 11%;
     position: absolute;
-    
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .LICK{
     top: 291%;
     margin-left: 1%;
     position: absolute;
-    
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .HOT{
     top:291%;
     margin-left: 1%;
     position: absolute;
+    font-family: 'Oleo Script Swash Caps';
+    font-size: 22px;
 }
 .top{
     margin-top: 15%;
@@ -198,6 +226,7 @@ margin-left: 7%;
 }
 .us{
     margin-left: 45%;
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .why{
     margin-left: 36%;
@@ -223,10 +252,11 @@ margin-left: 15%;
 }
 .services{
     margin-left: 30%;
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .listen{
     background-image: url(images/23-Food-Photographer-Bangkok-Thailand.jpg);
-    filter: brightness(85%);
+    filter: brightness(95%);
     width: 100%;
     padding-bottom: 5%;
 }
@@ -235,12 +265,18 @@ margin-left: 15%;
     color: white;
     padding-top: 5%;
     padding-bottom: 3%;
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .customer{
     margin-left: 36%;
     color: white;
     padding-bottom: 4%;
 }
+.rahim{font-family: 'Oleo Script Swash Caps';
+    color: black;
+    font-size: 22px;}
+.shand{font-family: 'Oleo Script Swash Caps';font-size: 22px;color: black;}
+.wali{font-family: 'Oleo Script Swash Caps';font-size: 22px;color: black;}
 .group-three{
     display: flex;
     flex-direction: row;
@@ -250,7 +286,8 @@ margin-left: 15%;
 .col15,.col16,.col17{
     background-color: white;
     text-align: center;
-    padding: 40px;  
+    padding: 40px; 
+    color: gray; 
 }
 .book{
     padding-bottom: 7%;
@@ -260,6 +297,7 @@ margin-left: 15%;
     color:black;
     padding-top: 5%;
     padding-bottom: 3%;
+    font-family: 'Oleo Script Swash Caps';font-size: 22px;
 }
 .early{
     margin-left: 36%;
@@ -434,4 +472,14 @@ margin-left: 15%;
     right: 32%;
     position: absolute;
     margin-top:12% ;
- }  
+ }
+ .col5,.col6,.col7,.col8{
+     padding-bottom: 3%;
+ }
+ .ten{font-family: 'Oleo Script Swash Caps';font-size: 22px;}
+ .four{font-family: 'Oleo Script Swash Caps';font-size: 22px;}
+ .twelve{font-family: 'Oleo Script Swash Caps';font-size: 22px;}
+ .five{font-family: 'Oleo Script Swash Caps';font-size: 22px;} 
+ .LOGOS{font-family: 'Oleo Script Swash Caps';font-size: 22px;}
+ .call{font-family: 'Oleo Script Swash Caps';font-size: 22px;}
+ .sub{font-family: 'Oleo Script Swash Caps';font-size: 22px;} 
