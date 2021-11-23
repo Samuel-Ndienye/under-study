@@ -93,4 +93,11 @@ margin-left: 7%;
     margin-left: 36%;
   
 }
-
+.food{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.col1, .col2, .col3, .col4{
+    background-color: white;
+}
