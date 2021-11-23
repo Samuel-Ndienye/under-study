@@ -233,12 +233,16 @@ margin-left: 15%;
 .group-three{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;   
+    justify-content: space-around; 
+      
 }
 .col15,.col16,.col17{
     background-color: white;
     text-align: center;
     padding: 40px;  
+}
+.book{
+    padding-bottom: 7%;
 }
 .space{
     margin-left: 45%;
@@ -291,7 +295,7 @@ margin-left: 15%;
     padding-bottom: 1%;
     width: 27%;
     position: absolute;
-    top: 655%;
+    top: 603%;
     color: gray; 
 
 }
@@ -301,7 +305,7 @@ margin-left: 15%;
     padding-top: 1%;
     padding-bottom: 1%;
     width: 27%;
-    top: 664%;
+    top: 611%;
     position: absolute;
     color: gray; 
 }
@@ -324,6 +328,7 @@ margin-left: 15%;
     border: 1px solid orangered;
     width:10%;
     margin-left: 40%;
+    margin-top: 4%;
 }
 .serve{
     color: white;
@@ -346,4 +351,33 @@ margin-left: 15%;
 .fow{
     padding-top: 10%;
 }
+.subscribe{
+    background-color: #212121;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+.mail{
+    margin-left: 5%;
+    background-color:#333333;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 245%;
+    color: grey;  
+}
+.subs{
+    color: white;
+    background-color:orangered;
+    border: 1px solid orangered;
+    width:245%;
+}
+.footer{
+    background-color: #333333;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}  
     
