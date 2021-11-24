@@ -11,6 +11,7 @@
     left: 50%;
     flex-direction: row-reverse;
     margin-top: 20px;
+    font-size: 20px;
 }
 .nav-section>nav>a{
     justify-content: space-between;
@@ -70,15 +71,15 @@ font-size: 23px;
 .tatu{
     position: absolute;
     margin-left: 3%;
-    top: 136%;
+    top: 128%;
 }
 .mbili{
-margin-top: 9%;
+margin-top: 11%;
 margin-left: 7%;
 }
 .amc{
     margin-left:58%;
-    top:140%;
+    top:115%;
     position: absolute;
 }
 .about{
@@ -115,20 +116,23 @@ margin-left: 7%;
 .cooks{color: grey;
 margin-top: 6%;
 margin-bottom: 7%;
+font-size: 22px;
 }
 .most{color: gray;
 margin-bottom: 7%;
+font-size: 22px;
 }
 .menu{
     background-color: #E5E5E5;
 }
 .ourmenu{
     margin-left: 41%;
+    
     font-family: 'Oleo Script Swash Caps';font-size: 42px;
 }
 .our{
     margin-left: 36%;
-  
+    font-size: 22px;
 }
 .our::after{
     content: '';
@@ -136,9 +140,9 @@ margin-bottom: 7%;
     width: 7%;
     background: orangered;
     position: absolute;
-    left:44.5%;
+    left:42.5%;
     bottom:0px;
-    top: 1789px;
+    top: 1750px;
 }
 .food{
     display: flex;
@@ -178,56 +182,56 @@ margin-bottom: 7%;
     margin-left: 75%;
 }
 .spicey{
-    top:321%;
+    top:320;
     margin-right: 20%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';font-size: 22px;
     color: black;
 }
 .SPICED{
-    top:321%;
+    top:321;
     margin-right: 20%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';font-size: 22px; 
     color: black;  
 }
 .SWEET{
-    top:321%;
+    top:321;
     margin-right: 20%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';font-size: 22px; 
     color: black; 
 }
 .NICE{
-    top:321%;
+    top:321;
     margin-right: 10%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';font-size: 22px;
     color: black;
 }
 .GOOD{
-    top:262%;
+    top:262;
     margin-right: 9%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';font-size: 22px; 
     color: black;
 }
 .TASTY{
-    top:261%;
+    top:261;
     margin-right: 11%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';font-size: 22px;
     color: black;
 }
 .LICK{
-    top: 262%;
+    top: 262;
     margin-left: 1%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';font-size: 22px;
     color: black;
 }
 .HOT{
-    top:262%;
+    top:254;
     margin-left: 1%;
     position: absolute;
     font-family: 'Oleo Script Swash Caps';
@@ -243,7 +247,7 @@ margin-bottom: 7%;
 .stars{
     right: 82%;
     position: absolute;
-    margin-top:12% ;
+    margin-top:11% ;
     margin-right: 4%;
 }
 .oda{
@@ -260,6 +264,8 @@ margin-bottom: 7%;
 }
 .why{
     margin-left: 36%;
+    font-size: 22px;
+    color: grey;
 }
 .why::after{
     content: '';
@@ -269,7 +275,7 @@ margin-bottom: 7%;
     position: absolute;
     left:43.5%;
     bottom:0px;
-    top: 3059px;
+    top: 3100px;
 }
 .group-one{
     display: flex;
@@ -311,6 +317,7 @@ margin-left: 15%;
     margin-left: 40%;
     color: whitesmoke;
     padding-bottom: 4%;
+    font-size: 20px;
 }
 .customer::after{
     content: '';
@@ -320,7 +327,7 @@ margin-left: 15%;
     position: absolute;
     left:48.5%;
     bottom:0px;
-    top: 277px;
+    top: 285px;
 }
 .rahim{font-family: 'Oleo Script Swash Caps';
     color: black;
@@ -362,9 +369,9 @@ margin-left: 15%;
     position: absolute;
     left:42.5%;
     bottom:0px;
-    top: 4869px;
+    top: 4950px;
 }
-.name{
+/*.name{
     margin-left: 20%;
     background-color: #E5E5E5;
     padding-top: 1%;
@@ -414,7 +421,7 @@ margin-left: 15%;
     padding-top: 1%;
     padding-bottom: 1%;
     width: 27%;
-    top: 656%;
+    top:20%;
     position: absolute;
     color: gray; 
 }
@@ -425,7 +432,7 @@ margin-left: 15%;
     padding-bottom: 8%;
     width: 55%;
     color: gray; 
-}
+}*/
 .tables{
     color: white;
     background-color:orangered;
@@ -493,44 +500,44 @@ margin-left: 15%;
     margin-right:4%; 
     right: 56%;
     position: absolute;
-    margin-top:12% ;
+    margin-top:11% ;
      
  } 
  .starx{
     margin-right:4%; 
     right: 8%;
     position: absolute;
-    margin-top:12% ;
+    margin-top:11% ;
  }
  .stur{
     margin-right:4%; 
     right: 82%;
     position: absolute;
-    margin-top:12% ;  
+    margin-top:11% ;  
  }
  .stir{
     margin-right:4%; 
     right: 57%;
     position: absolute;
-    margin-top:12% ;
+    margin-top:11% ;
  }
  .stor{
     margin-right:9%; 
     right: 2%;
     position: absolute;
-    margin-top:12% ;
+    margin-top:11% ;
  }
  .ster{
     margin-right:4%; 
     right:33%;
     position: absolute;
-    margin-top:12% ;
+    margin-top:11% ;
  }
  .starr{
     margin-right:4%; 
     right: 32%;
     position: absolute;
-    margin-top:12% ;
+    margin-top:11% ;
  }
  .col5,.col6,.col7,.col8{
      padding-bottom: 3%;
