@@ -487,7 +487,6 @@ margin-left: 15%;
     background-color: #333333;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
 }  
  
  .star{
@@ -543,7 +542,10 @@ margin-left: 15%;
  .LOGOS{font-family: 'Oleo Script Swash Caps';font-size: 25px;}
  .call{font-family: 'Oleo Script Swash Caps';font-size: 25px;}
  .sub{font-family: 'Oleo Script Swash Caps';font-size: 25px;} 
- .right{
-     display: flex;
-     justify-content: space-evenly;
-     }
+ .tw{margin-left: 592%;margin-top: 9%;}
+ .yt{margin-left: 25%;margin-top: 7%;}
+ .ig{margin-left: 25%;margin-top: 9%;}
+ .fb{margin-left: 25%;margin-top: 9%;}
+ .google{margin-left: 25%;margin-top: 9%;}
+ .right{display: flex;
+}
