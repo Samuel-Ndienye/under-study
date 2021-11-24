@@ -98,7 +98,7 @@ margin-left: 7%;
         position: absolute;
         left:1.5%;
         bottom:0px;
-        top: 96px;
+        top: 97px;
     }
 
 .explore{
@@ -123,12 +123,22 @@ margin-bottom: 7%;
     background-color: #E5E5E5;
 }
 .ourmenu{
-    margin-left: 45%;
+    margin-left: 41%;
     font-family: 'Oleo Script Swash Caps';font-size: 42px;
 }
 .our{
     margin-left: 36%;
   
+}
+.our::after{
+    content: '';
+    height: 2px;
+    width: 7%;
+    background: orangered;
+    position: absolute;
+    left:44.5%;
+    bottom:0px;
+    top: 1789px;
 }
 .food{
     display: flex;
@@ -251,6 +261,16 @@ margin-bottom: 7%;
 .why{
     margin-left: 36%;
 }
+.why::after{
+    content: '';
+    height: 2px;
+    width: 7%;
+    background: orangered;
+    position: absolute;
+    left:43.5%;
+    bottom:0px;
+    top: 3059px;
+}
 .group-one{
     display: flex;
     flex-direction: row;
@@ -276,7 +296,7 @@ margin-left: 15%;
 }
 .listen{
     background-image: url(images/23-Food-Photographer-Bangkok-Thailand.jpg);
-    filter: brightness(95%);
+    filter: brightness(90%);
     width: 100%;
     padding-bottom: 5%;
 }
@@ -289,9 +309,18 @@ margin-left: 15%;
 }
 .customer{
     margin-left: 40%;
-    color: white;
+    color: whitesmoke;
     padding-bottom: 4%;
-    
+}
+.customer::after{
+    content: '';
+    height: 4px;
+    width: 7%;
+    background: orangered;
+    position: absolute;
+    left:48.5%;
+    bottom:0px;
+    top: 277px;
 }
 .rahim{font-family: 'Oleo Script Swash Caps';
     color: black;
@@ -324,6 +353,16 @@ margin-left: 15%;
     margin-left: 36%;
     color: black;
     padding-bottom: 4%;
+}
+.early::after{
+    content: '';
+    height: 2px;
+    width: 7%;
+    background: orangered;
+    position: absolute;
+    left:42.5%;
+    bottom:0px;
+    top: 4869px;
 }
 .name{
     margin-left: 20%;
@@ -365,7 +404,7 @@ margin-left: 15%;
     padding-bottom: 1%;
     width: 27%;
     position: absolute;
-    top: 648%;
+    top: 664%;
     color: gray; 
 
 }
