@@ -543,3 +543,7 @@ margin-left: 15%;
  .LOGOS{font-family: 'Oleo Script Swash Caps';font-size: 25px;}
  .call{font-family: 'Oleo Script Swash Caps';font-size: 25px;}
  .sub{font-family: 'Oleo Script Swash Caps';font-size: 25px;} 
+ .right{
+     display: flex;
+     justify-content: space-evenly;
+     }
