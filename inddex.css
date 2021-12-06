@@ -57,7 +57,7 @@ font-size: 23px;
     padding-top: 4%;
     padding-bottom: 4%;
     padding-left: 6%;
-    padding-right: 4%;
+    padding-right: 3%;
     border: 1px solid orangered;
     width: 35%;
     margin-top: 28%;
@@ -65,13 +65,13 @@ font-size: 23px;
 .nne{
     position: absolute;
     margin-left: 3%;
-    margin-top: 27.5%;
+    margin-top: 29.5%;
     
 }
 .tatu{
     position: absolute;
     margin-left: 3%;
-    top: 128%;
+    top: 140%;
 }
 .mbili{
 margin-top: 11%;
@@ -98,8 +98,7 @@ margin-left: 7%;
         background: orangered;
         position: absolute;
         left:1.5%;
-        bottom:0px;
-        top: 97px;
+        top: 120px;
     }
 
 .explore{
@@ -140,9 +139,9 @@ font-size: 22px;
     width: 7%;
     background: orangered;
     position: absolute;
-    left:42.5%;
+    left:43.5%;
     bottom:0px;
-    top: 1750px;
+    top: 1720px;
 }
 .food{
     display: flex;
@@ -274,8 +273,7 @@ font-size: 22px;
     background: orangered;
     position: absolute;
     left:43.5%;
-    bottom:0px;
-    top: 3100px;
+    top: 3020px;
 }
 .group-one{
     display: flex;
@@ -327,7 +325,7 @@ margin-left: 15%;
     position: absolute;
     left:48.5%;
     bottom:0px;
-    top: 285px;
+    top: 150px;
 }
 .rahim{font-family: 'Oleo Script Swash Caps';
     color: black;
@@ -368,71 +366,8 @@ margin-left: 15%;
     background: orangered;
     position: absolute;
     left:42.5%;
-    bottom:0px;
-    top: 4950px;
+    top: 4850px;
 }
-/*.name{
-    margin-left: 20%;
-    background-color: #E5E5E5;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    width: 55%;
-    color: gray; 
-    
-}
-.email{
-    margin-left: 20%;
-    background-color: #E5E5E5;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    width: 55%; 
-    color: gray;  
-}
-.phone{
-    margin-left: 20%;
-    background-color: #E5E5E5;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    width: 25%;
-    color: gray; 
-}
-.date{
-    margin-left: 20%;
-    background-color: #E5E5E5;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    width: 25%;
-    color: gray; 
-}
-.person{
-    margin-left: 47%;
-    background-color: #E5E5E5;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    width: 27%;
-    position: absolute;
-    top: 664%;
-    color: gray; 
-
-}
-.time{
-    margin-left: 47%;
-    background-color: #E5E5E5;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    width: 27%;
-    top:20%;
-    position: absolute;
-    color: gray; 
-}
-.message{
-    margin-left: 20%;
-    background-color: #E5E5E5;
-    padding-top: 1%;
-    padding-bottom: 8%;
-    width: 55%;
-    color: gray; 
-}*/
 .tables{
     color: white;
     background-color:orangered;
